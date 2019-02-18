@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526599708 source:d:\informatica\lfa\laborator\tema 2\tema 4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<string.h>
+	<ctype.h>
+
