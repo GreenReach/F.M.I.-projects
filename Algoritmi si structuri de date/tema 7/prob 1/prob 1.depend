@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512667043 source:d:\informatica\alagoritimi si structuri de date\laborator\tema 7\prob 1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
