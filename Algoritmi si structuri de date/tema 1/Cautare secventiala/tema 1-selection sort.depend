@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507300857 source:d:\informatica\tema 1-selection sort\main.cpp
+	<iostream>
+
+1508435649 source:d:\informatica\alagoritimi si structuri de date\laborator\tema 1\cautare secventiala\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509645339 source:d:\informatica\alagoritimi si structuri de date\laborator\tema 3\prob 2\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
+1509718886 source:d:\informatica\alagoritimi si structuri de date\laborator\tema 3\prob 2,3,4\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

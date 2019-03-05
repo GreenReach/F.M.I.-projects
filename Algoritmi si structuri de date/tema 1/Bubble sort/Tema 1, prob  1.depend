@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507298958 source:d:\informatica\tema 1, prob  1\sir.c
+
+1507299514 source:d:\informatica\tema 1, prob  1\main.cpp
+	<iostream>
+	<fstream>
+
