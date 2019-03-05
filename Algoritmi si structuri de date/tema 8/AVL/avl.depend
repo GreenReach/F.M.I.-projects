@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516115223 source:d:\informatica\alagoritimi si structuri de date\laborator\tema 8\avl\main.cpp
+	<iostream>
+	<cctype>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
