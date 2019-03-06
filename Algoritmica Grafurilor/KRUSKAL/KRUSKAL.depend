@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526227986 source:c:\users\radu\desktop\facultate\anul i licenta\semestrul ii\algoritmica grafurilor\algoritmi\kruskal\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551899118 source:c:\users\radu\desktop\cicluri\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

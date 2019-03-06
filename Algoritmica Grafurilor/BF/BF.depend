@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525971445 source:c:\users\radu\desktop\facultate\anul i licenta\semestrul ii\algoritmica grafurilor\algoritmi\bf\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
