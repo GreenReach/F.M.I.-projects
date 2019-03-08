@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546630009 source:e:\informatica\anul 2\semestru i\tehnici avansate de programare\laborator\dinamic\lab_1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

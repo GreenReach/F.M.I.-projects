@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546547403 source:e:\informatica\anul 2\semestru i\tehnici avansate de programare\laborator\dei\lab_2\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
