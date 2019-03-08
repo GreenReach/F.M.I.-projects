@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526995613 source:d:\informatica\poo\laborator\proiect 3\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
