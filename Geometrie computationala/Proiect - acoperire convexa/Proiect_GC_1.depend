@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544015533 source:c:\users\dana-maria\desktop\fmi\an2\semestrul-i\sisteme de operare\laborator\proiect_gc_1\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	<algorithm>
+
