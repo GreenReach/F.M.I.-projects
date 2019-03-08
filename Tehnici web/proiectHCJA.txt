@@ -1,0 +1,33 @@
+HTML
+meta, base
+
+CSS
+position(relative, absolute),z-index
+transform, transition, animation
+flexbox-model
+
+JS 
+*inputuri (buton,text,radio, checkbox)
+*this, let, navigare in arbore (children, parentElement, ..)
+*className, classList, getComputedStyle
+*addEventListener cu param3=true
+*event -proprietati(target, key, pageX)
+*      -metode (stopPropagation, preventDefault)
+*proprietate noua adaugata unui obiect
+*setInterval(cu 3 parametrii) , clearInterval
+*window- open, close
+*o metoda din clasele predefinite: Math, Array, String, Date	  
+*innerHTML, localStorage, 
+*Drag and Drop
+
+
+optional-cei care vor sa-si mareasca activitatea de laborator 
+-griduri
+-stilizare cu bootstrap
+-canvas 
+-SVG 
+-jquery
+-ajax
+
+
+

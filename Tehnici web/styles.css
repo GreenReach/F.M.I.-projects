@@ -1,0 +1,78 @@
+#title{
+	float:left;
+	color: gray;
+	padding-left:5%
+	}
+#author{
+	float:right;
+	color:grey;
+	padding-right:5%
+	}
+
+#main{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+	
+	
+}
+
+
+p{
+	color: grey;
+ }
+
+figure{
+   border: 5px solid;   
+   display: inline-block;
+   width: 25%;
+   height: auto;
+   margin: 10% 10% 10% 10%
+ }
+ 
+ figure img{
+	 width:100%;
+ }
+ 
+ figcaption{
+	 border:solid;
+	 display:inline-block;
+ }
+ 
+ figure:hover{
+	  width: 30%;
+
+ }
+ 
+ li ul{
+	 visibility: hidden;
+ }
+ 
+ li:hover ul{
+	 
+	 visibility:visible;
+ }
+ 
+ li ul{
+	 border:solid;
+ }
+ 
+ nav>ul>li{
+	 display:inline-block;
+ }
+ 
+ li{
+	 vertical-align:text-top;
+	 }
+	 
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: grey;
+    }
+	figure{
+		width: 85%;
+	}
+	
+	
+}

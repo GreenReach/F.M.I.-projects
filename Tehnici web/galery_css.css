@@ -1,0 +1,59 @@
+.photo{
+	height:50%;
+	text-align:center;
+	
+}
+
+figure{
+	
+	display:inline-block;
+}
+
+#id{
+	display:flex;
+	flex-flow: row; 
+	flex-wrap:wrap;
+}
+
+#title{
+	color:grey;
+}
+
+nav {
+	text-align:center
+}
+
+body{
+    margin: 0%;
+    border: 10px solid #6d6d6d;	
+}
+
+div{
+	margin: 0%;
+	border: 1em solid gray;	
+	
+}
+
+header>h1
+{
+	text-align:center;
+}
+
+table,td,th{
+	
+    border: 10px solid black;
+	border-collapse: collapse;
+}
+
+figcaption{
+	font-size:100%;
+	text-align:center;
+	
+}
+
+img{
+	
+	
+	margin-left: auto;
+	margin-right: auto;
+}

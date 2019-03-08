@@ -1,0 +1,61 @@
+.write{
+	font-weight:bold;
+}
+
+.addi{
+	font-size:2em;
+}
+
+.rad{
+	background-color:red;
+}
+
+#color1{
+	background-color:red;
+}
+
+#color2{
+	background-color:blue;
+}
+
+#title{
+	text-align:center;
+	color: grey;
+	}
+	
+#author{
+	float:right;
+	color:grey;
+	padding-right:5%
+	}
+
+#main{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#exit{
+	
+	width:5%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    margin: 0%;
+    border: 10px solid #6d6d6d;
+	z-index:-10;
+}
+
+div{
+	 margin: 0%;
+    border: 1em solid gray;	
+}
+
+nav
+{
+	text-align:center;	
+}

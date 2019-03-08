@@ -1,0 +1,75 @@
+
+.koala{
+	left:40%;
+	top:40%;
+	width:20%;
+	position:absolute;
+	transition: width 5s;
+	animation-name:move;
+	animation-duration:5s;
+	animation-iteration-count: infinite;
+}
+
+
+@keyframes move {
+	
+  0%   {transform:rotate(0deg);}
+  25%  {transform:rotate(120deg);}
+  50%  {transform:rotate(240deg);}
+  100% {transform:rotate(360deg);}
+}
+img:hover{
+	width:5%;
+}
+
+
+#cube{
+	z-index:-1000;
+	position: absolute;
+	color:grey;
+	background-color:#6d6d6d;
+	width: 380px;
+    height: 380px;
+	left:36.5%;
+	top:35%;
+}
+
+#title{
+	float:left;
+	color: gray;
+	padding-left:5%
+	}
+	
+#author{
+	float:right;
+	color:grey;
+	padding-right:5%
+	}
+
+#main{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+body{
+    margin: 0%;
+    border: 10px solid #6d6d6d;
+}
+
+div{
+	 margin: 0%;
+    border: 1em solid gray;	
+}
+
+nav
+{
+	text-align:center;	
+}
+
+@media only screen and (max-width: 600px)
+{
+	body{background-color:gray;}
+	nav{visibility:hidden;
+}

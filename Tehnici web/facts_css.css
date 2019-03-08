@@ -1,0 +1,54 @@
+.list:nth-child(odd){
+	background: gray;
+	padding: 20px;
+}
+
+.list:nth-child(even){	
+	background: #c6c6c6;
+	padding: 20px;
+}
+
+#title{
+	color:grey;
+}
+
+#bord{
+	 margin: 0%;
+    border: 1em solid gray;
+	background:#c4c4c4;
+}
+
+#exeption{
+	background: gray;
+	padding: 20px;
+}
+
+#neordonata{
+   background: gray;
+   margin:0px;
+}
+
+body{
+    margin: 0%;
+    border: 10px solid #6d6d6d;	
+}
+
+nav,h1{
+	text-align: center;
+}
+
+aside{
+	background:#c4c4c4;
+	padding:20px;
+	text-align:center;
+	color:gray;
+	font-size:110%;
+}
+ol{
+	background:gray;
+}
+
+header,nav{
+	background:#c4c4c4;
+}	
+

@@ -1,0 +1,49 @@
+.droper {
+    position: relative;
+    display: inline-block;
+	background-color:gray;
+	padding: 20px;
+	border: 20px solid white;
+	border-radius:50px;
+}
+
+.droped {
+   display: none;
+   position:absolute;
+   border: 25px solid grey;
+   background-color:gray;
+   border-radius:25px;
+   right:2px;
+}
+
+.droper:hover .droped {
+    display: block;
+}
+
+#title{
+	color:grey;
+}
+
+#margins{
+	 margin: 0%;
+    border: 1em solid gray;
+}
+
+body{
+    margin: 0%;
+    border: 10px solid #6d6d6d	
+}
+
+nav{
+	text-align:center;
+}
+
+video{
+	
+	display:block;
+	margin: 0 auto;
+}
+
+span{
+	text-align:center;
+}

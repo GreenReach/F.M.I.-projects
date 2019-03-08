@@ -1,0 +1,42 @@
+#title{
+	color:grey;
+}
+
+#s1, #s2{
+	background-color:gray;
+}
+
+body{
+    margin: 0%;
+    border: 10px solid #6d6d6d;
+	background:#c4c4c4;
+}
+
+div{
+	 margin: 0%;
+    border: 1em solid gray;
+}
+
+header,nav{
+	text-align:center;
+}
+
+section p{
+	display: inline-block;
+}
+
+p{
+	background:gray;
+	padding:20px;
+	visibility: visible;
+}
+
+h3{
+	background:gray;
+}
+
+button{
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+}

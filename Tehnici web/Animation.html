@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="Animation_css.css">
+  <script src="Animation_js.js"> </script>
+  <link rel="icon" href="koala icon.png" type="image/x-icon"/>
+  <meta name="description" content="A koala aplication">
+  <meta name="keywords" content="Koala,Aplication,Project,Web">
+  <meta name="author" content="Robert Apostu">
+  <base href="Home.html" target="_self">
+</head>
+
+<body id="base">
+<div>
+
+<br><br>
+
+<header >
+<h1  id="title">Play with a koala</h1>
+</header>
+
+
+
+<nav>
+   <a href="Main.html">HOME</a>
+</nav>
+
+<br><br>
+<p>Change the picture by selecting a number</p>
+<div id="diiiv">
+<form action="">
+<input type="radio" id="1" name="name" value="1">1
+<input type="radio" id="2" name="name" value="2">2
+<input type="radio" id="3" name="name" value="3">3
+<input type="radio" id="4" name="name" value="4">4
+<input type="radio" id="5" name="name" value="5">5
+<input type="radio" id="6" name="name" value="6">Random
+<input type="button" id="7" value="Start Interval">
+<input type="button" id="8" value="Stop Interval">
+</form>
+</div>
+<br>
+Name this koala <input type="text" id="name">
+<br>
+
+<br>
+<article id="parinte" name="ARTICLE">
+<input type="button" id="info" value="Picture Info" class="Buttons">
+<input type="button" id="more_info" value="More Info" class="Buttons">
+</article>
+
+<article id="picture"></article>
+<br><br><br><br><br><br><br><br><br><br>
+
+
+<input type="button" value="Koalify the text" id="koalify">
+
+
+<article id="last" draggable=true ondragstart="dragstart(event)">
+<p>Once upon a time there has been a great <span class="make_koala" > king </span>, he was great. </p>
+<p>All the people in the kingdom loved him, his name was George the <span class="make_koala"> Great </span> </p>
+</article>
+
+<article id="color1" ondrop="drop(event)" ondragover="drag(event)">
+<br><br>
+RED
+<br><br>
+</article>
+
+<article id="color2" ondragover="drag1(event)" ondrop="drop1(event)">
+<br><br>
+BLUE
+<br><br>
+</article>
+
+<br><br><br><br><br><br><br><br><br><br>
+<p id="page"></p>
+<img src="exit.png" id="exit">
+</div>
+</body>
+
+
+
+</html>
