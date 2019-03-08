@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547322857 source:e:\informatica\anul 2\semestru i\tehnici avansate de programare\laborator\greedy\minimizarea intarzierii maxime\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

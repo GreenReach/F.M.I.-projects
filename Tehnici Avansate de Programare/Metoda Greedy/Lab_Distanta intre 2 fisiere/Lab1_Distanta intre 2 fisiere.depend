@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1546542681 source:e:\informatica\anul 2\semestru i\tehnici avansate de programare\laborator\greedy\lab1_distanta intre 2 fisiere\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	<string.h>
+	<math.h>
+

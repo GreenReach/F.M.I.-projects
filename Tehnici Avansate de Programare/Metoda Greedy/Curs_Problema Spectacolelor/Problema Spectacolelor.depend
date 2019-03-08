@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546531744 source:e:\informatica\anul 2\semestru i\tehnici avansate de programare\laborator\greedy\problema spectacolelor\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
